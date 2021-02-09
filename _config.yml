@@ -23,8 +23,8 @@ title: John Pilbeam — Thoughts on technology, libraries and higher education
 description: >- # this means to ignore newlines until "baseurl:"
     © 2021, John Pilbeam
 # More information about my projects and interests can be found on my [LinkedIn profile](http://uk.linkedin.com/pub/john-pilbeam/a/8a/655/)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/johnpilbeam.com" # the subpath of your site, e.g. /blog
+url: "https://johnpilbeam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpilbeam
 github_username: johnpilbeam
 
