@@ -1,2 +1,2 @@
 # johnpilbeam.com
- Respository for my personal website hosted at johnpilbeam.com
+ Repository for my personal website hosted at johnpilbeam.com
