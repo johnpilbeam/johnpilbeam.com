@@ -29,7 +29,7 @@ twitter_username: jpilbeam
 github_username: johnpilbeam
 
 # Build settings
-theme: jekyll-athena
+remote_theme: broccolini/swiss
 # theme: minima
 # https://github.com/jeromelachaud/freelancer-theme
 # remote_theme: jeromelachaud/freelancer-theme
