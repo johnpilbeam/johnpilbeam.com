@@ -43,7 +43,7 @@ theme_color: white
 # Other Swiss theme settings
 #title: Swiss Jekyll Theme
 description:  Thoughts on technology, libraries and higher education
-github_repo: /johnpilbeam/johnpilbeam.com # the GitHub repo name for your project
+github_repo: johnpilbeam.com # the GitHub repo name for your project
 
 
 # Optional social link, you can choose from the following options:
