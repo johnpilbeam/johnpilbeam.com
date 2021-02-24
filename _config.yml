@@ -51,10 +51,6 @@ github_repo: /johnpilbeam/johnpilbeam.com # the GitHub repo name for your projec
 social_link: twitter
 social_username: jpilbeam
 
-# Set theme color here
-# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
-
 # Build settings
 markdown: kramdown
 
