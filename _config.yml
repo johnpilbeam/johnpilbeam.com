@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: John Pilbeam — Thoughts on technology, libraries and higher education
+title: John Pilbeam
 email: Email - My twitter handle + gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    © 2021, John Pilbeam
+# description: >- # this means to ignore newlines until "baseurl:"
+#    © 2021, John Pilbeam
 # More information about my projects and interests can be found on my [LinkedIn profile](http://uk.linkedin.com/pub/john-pilbeam/a/8a/655/)
 baseurl: "/johnpilbeam.com" # the subpath of your site, e.g. /blog
 url: "https://johnpilbeam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,6 +39,24 @@ plugins:
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: white
+
+# Other Swiss theme settings
+#title: Swiss Jekyll Theme
+description:  Thoughts on technology, libraries and higher education
+github_repo: /johnpilbeam/johnpilbeam.com # the GitHub repo name for your project
+
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: jpilbeam
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black
+
+# Build settings
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
