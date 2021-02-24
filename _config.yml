@@ -38,7 +38,7 @@ plugins:
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: red
+theme_color: white
 
 # Exclude from processing.
 # The following items will not be processed, by default.
