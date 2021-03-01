@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: John Pilbeam
-email: Email - My twitter handle + gmail.com
+email: Email - jpilbeam + gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
 #    © 2021, John Pilbeam
 # More information about my projects and interests can be found on my [LinkedIn profile](http://uk.linkedin.com/pub/john-pilbeam/a/8a/655/)
