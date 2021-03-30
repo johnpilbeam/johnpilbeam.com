@@ -13,14 +13,14 @@ As a Mac user it doesn't feel great to recommend that you use Microsoft Excel on
 If you have a spreadsheet with some columns completed, but others incomplete, you might still be able to use a [shortcut to add the missing data](https://exceljet.net/lessons/shortcut-recipe-fill-in-missing-data). For example you might have a spreadsheet logging user access to a system, where every row has a user's email address in column E, but user's department is missing from column H. If the user's email includes their department name (e.g alice.bob@bunnystudies.uni.edu), then we're in luck and we can use a shortcut:
 
 - Select everthing in the current worksheet with <code>Ctrl + A</code>.
-- Use <code>Ctrl + A</code> (<code>Go To Special</code>) select only the blank cells.
+- Use <code>Ctrl + A</code> (Go To Special) select only the blank cells.
 - Enter a formula that simply gets the value from cell E(row number) e.g. <code>=E2</code>.
 
 
 ### Convert a Formula to Value in Excel
 Once you have the missing data filled in, you will need to [convert the text created by the formula into static text](https://excelchamps.com/blog/convert-to-value/) so it can be edited:
 - Select the range of the cells where you have formulas.
-- Press <code>Ctrl + C<c/ode> to copy the cells.
+- Press <code>Ctrl + C</code> to copy the cells.
 - Press <code>Alt + E S V</code>.
 
 ### Replace static email addresses with department names
