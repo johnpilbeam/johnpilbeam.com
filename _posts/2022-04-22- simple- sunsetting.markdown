@@ -8,7 +8,7 @@ categories: poster web archive preservation update
 ## Introduction
 
 This concept was originally presented as a [poster at Code4Lib 2021](/assets/img/code4lib-2021-poster.pdf)
-(March 22 - 26 2021, [Online](https://2021.code4lib.org)). With [Code4Lib 2021](https://2022.code4lib.org) just around the corner, it's probably a good idea to share this more widely. Please do [get in touch](/contact) if you have any comments or questions about this approach.
+(March 22 - 26 2021, [Online](https://2021.code4lib.org)). With [Code4Lib 2022](https://2022.code4lib.org) just around the corner, it's probably a good idea to share this more widely. Please do [get in touch](/contact) if you have any comments or questions about this approach.
 
 ![Diagram](/assets/img/code4lib-2021-diagram.png)
 
