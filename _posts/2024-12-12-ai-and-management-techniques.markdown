@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A round up of talks this year"
-date: 2022-08-09 08:08:00 +0000
+date: 2024-12-12 16:54:00 +0000
 categories: libraries ai productivity update
 ---
 
