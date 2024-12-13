@@ -7,11 +7,11 @@ categories: libraries ai productivity update
 
 ## Introduction
 
-This year a lot of my focus has been on the working with colleagues across the Bodleian Libraries. This has included helping to establish a Community of Practice (CoP) for Staff IT Skills. We have developed a community on Teams and also held two onsite events at library venues. The first event looked at AI and the most recent focused on **Digital Tools for Managing Tasks**. Read on for summaries of my presentations at these events.
+This year a lot of my focus has been on working with colleagues across the Bodleian Libraries. This has included helping to establish a Community of Practice (CoP) for Staff IT Skills. We have developed a community on Teams and also held two onsite events at library venues. The first event looked at AI and the most recent focused on _Digital Tools for Managing Tasks_. Read on for summaries of my presentations at these events.
 
 ## How I am using AI
 
-In my role as Web/Digital Officer at the Sainsbury Library, I leverage generative AI tools to streamline workflows and enhance content creation. Platforms like Buffer and Lumen5 assist with social media management and video generation, while Adobe Creative Cloud’s AI capabilities improve photo editing. I also use GitHub Copilot for coding tasks, simplifying processes like data analysis dashboards. Additionally, the University’s ChatGPT Enterprise initiative integrates AI into academic work, showcasing the potential of customized, secure AI applications.
+In my role as Web/Digital Officer at the Sainsbury Library, I'm using generative AI tools to streamline my workflows and enhance content creation. Platforms like Buffer and Lumen5 assist with social media management and video generation, while Adobe Creative Cloud’s AI capabilities improve photo editing. I also use GitHub Copilot for coding tasks and simplifying processes like developing data analysis dashboards. Additionally, the University’s ChatGPT Enterprise pilot is helping myself and colleagues to integregrate AI into academic work, for example by developing custom GPTs.
 
 ## Task Management Techniques
 
